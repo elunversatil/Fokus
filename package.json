@@ -1,5 +1,6 @@
 {
     "name": "fokus-color-theme",
+    "author": "unversatil",
     "displayName": "Fokus Theme",
     "description": "Nice theme to focus on when working",
     "version": "0.0.1",
@@ -15,5 +16,9 @@
                 "path": "./themes/fokus-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/elunversatil/Fokus"
     }
 }
