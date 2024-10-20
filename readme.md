@@ -5,3 +5,9 @@
 ## Fokus Theme
 
 Fokus Theme is a dark theme with nice colors to focus on when working
+
+## Installation
+
+```bash
+code --install-extension fokus-color-theme.vsix
+```
