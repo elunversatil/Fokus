@@ -1,0 +1,19 @@
+{
+    "name": "fokus-color-theme",
+    "displayName": "Fokus Theme",
+    "description": "Nice theme to focus on when working",
+    "version": "0.0.1",
+    "publisher": "unversatil",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fokus Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fokus-color-theme.json"
+            }
+        ]
+    }
+}
